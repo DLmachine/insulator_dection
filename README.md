@@ -12,6 +12,5 @@
 出采用已训练好的 CNN 网络通过反卷积运算来重构图片中的绝缘子信息并滤除复杂的背景信息。随
 后进行超像素分割并建立绝缘子数学模型，最终实现了绝缘子串缺陷部位的精准识别。本系统为输电
 线路无人机巡视中的人工智能巡视提供了借鉴。 
-关键词：绝缘子；选择性搜索；分类器；神经网络；卷积神经网络；自爆缺失 
 ![image](https://github.com/ouyangqq/insulator_dection/blob/master/experimental_figures/CNN_effect1.jpg)
 
