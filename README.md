@@ -13,3 +13,6 @@
 后进行超像素分割并建立绝缘子数学模型，最终实现了绝缘子串缺陷部位的精准识别。本系统为输电
 线路无人机巡视中的人工智能巡视提供了借鉴。 
 关键词：绝缘子；选择性搜索；分类器；神经网络；卷积神经网络；自爆缺失 
+
+![image](https://github.com/ouyangqq/insulator_dection/experimental_figures/CNN_effect1.jpg)
+![image](https://github.com/ouyangqq/insulator_dection/experimental_figures/dd2.jpg)
