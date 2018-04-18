@@ -16,3 +16,4 @@
 
 ![image](https://github.com/ouyangqq/insulator_dection/experimental_figures/CNN_effect1.jpg)
 ![image](https://github.com/ouyangqq/insulator_dection/experimental_figures/dd2.jpg)
+![image](https://github.com/ouyangqq/qinterface/blob/master/screenshot.jpg)
