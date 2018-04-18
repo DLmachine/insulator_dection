@@ -15,4 +15,4 @@
 关键词：绝缘子；选择性搜索；分类器；神经网络；卷积神经网络；自爆缺失 
 
 ![image](https://github.com/ouyangqq/insulator_dection/experimental_figures/CNN_effect1.jpg)
-![image](https://github.com/ouyangqq/insulator_dection/experimental_figures/dd2.jpg) 
+![image](https://github.com/ouyangqq/insulator_dection/experimental_figures/dd2.jpg)
